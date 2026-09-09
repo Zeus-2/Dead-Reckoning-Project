@@ -1,0 +1,21 @@
+{
+  "_comment": "EXAMPLE DATA ONLY. I replace these coordinates locally before processing real logs, then restore the examples before submitting my source code.",
+  "near_radius_miles": 1.0,
+  "trim_distance_miles": 1.0,
+  "locations": [
+    {
+      "name": "Example Home",
+      "latitude": 53.0,
+      "longitude": -2.0,
+      "trim_start": true,
+      "trim_end": true
+    },
+    {
+      "name": "Example Workplace",
+      "latitude": 53.1,
+      "longitude": -2.1,
+      "trim_start": true,
+      "trim_end": true
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# The study-area OSM extract exceeds GitHub's normal per-file size limit.
+data/maps/*.pbf filter=lfs diff=lfs merge=lfs -text
